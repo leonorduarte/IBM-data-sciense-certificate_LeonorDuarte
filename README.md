@@ -1,4 +1,4 @@
-# Leonor-Duarte---Data-Analyst-Portfolio
+# Leonor-Duarte-Data-Analyst-Portfolio
 # About Me
 Hi, I’m Leonor! I have a strong background in Management and am currently completing my master’s degree in Data-Driven Marketing with a specialization in Marketing Intelligence. Recently, I’ve been building my skills in data science through the IBM Data Science Professional Certificate program, which has fueled my passion for using data to uncover valuable insights and solve problems creatively.
 During my studies, I’ve developed the ability to work with complex datasets, identify patterns, and create actionable solutions. I’ve gained experience in tools like Python, SQL, and Power BI, as well as in data visualization and statistical analysis—skills I’m excited to apply in future projects.
