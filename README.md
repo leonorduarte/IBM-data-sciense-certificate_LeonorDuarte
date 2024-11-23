@@ -37,11 +37,13 @@ Will a future Falcon 9 first stage landing be successful?
 [Data Collection](https://github.com/leonorduarte/LeonorDuarte-IBM-data-sciense-certificate/blob/main/1Capstone_Leonor%20Duarte_Data_Collection.ipynb): Launch data was extracted using web scraping from Wikipedia and through the SpaceX API. 
 [Data Wrangling](https://github.com/leonorduarte/LeonorDuarte-IBM-data-sciense-certificate/blob/main/3-Capstone_LeonorDuarte_Data_Wrangling%20(2).ipynb): Information about flight details, payload mass, orbit type, launch site, mission outcomes, and first stage landing success was processed to serve as the dependent variable for prediction models. 
 Exploratory Analysis: [SQL queries](https://github.com/leonorduarte/LeonorDuarte-IBM-data-sciense-certificate/blob/main/4_Capstone_LeonorDuarte_EDA_SQL%20(2).ipynb),[static plots](https://github.com/leonorduarte/LeonorDuarte-IBM-data-sciense-certificate/blob/main/6_LeonorDuarte_Launch_Site_Location%20(1).ipynb),[interactive visualizations](https://github.com/leonorduarte/LeonorDuarte-IBM-data-sciense-certificate/blob/main/5_Capstone_LeonorDuarte_EDA_Data_Visualization%20(1).ipynb), and [dashboards](https://github.com/leonorduarte/LeonorDuarte-IBM-data-sciense-certificate/blob/main/7-App) were used to uncover patterns and trends in the data. 
-Machine Learning: Predictive analysis was conducted using Logistic Regression, SVM (Support Vector Machine), Decision Tree, and KNN (k-Nearest Neighbors) models to assess accuracy and suitability.
+
+[Machine Learning](https://github.com/leonorduarte/LeonorDuarte-IBM-data-sciense-certificate/blob/main/8_Capstone_LeonorDuarte_Machine_Learning_Prediction%20(1)%20(1).ipynb): Predictive analysis was conducted using Logistic Regression, SVM (Support Vector Machine), Decision Tree, and KNN (k-Nearest Neighbors) models to assess accuracy and suitability.
 
 ### Results
 The dataset provided insights into variables such as flight numbers, payload masses, and mission outcomes. The machine learning models Logistic Regression, SVM, and KNN performed equally well on the dataset, showcasing their potential for predicting Falcon 9 landing success.
-This project highlights how data-driven insights and predictive analytics can support SpaceX’s innovative approach to reducing launch costs and achieving sustainable space exploration.
+
+Note: Please check the [final report](https://github.com/leonorduarte/LeonorDuarte-IBM-data-sciense-certificate/blob/main/Final%20report_%20LD_.pdf).
 
 
 ## IBM Skills Network: My Completed Final Projects
