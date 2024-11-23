@@ -6,9 +6,7 @@ During my studies, I honed my ability to work with complex datasets and develope
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 # Summary of This Repository
-This repository contains select 
-
-# Completed Courses 
+## Completed Courses 
 - **Course 1:** What is Data Science?
 - **Course 2:** Tools for Data Science
 - **Course 3:** Data Science Methodology
