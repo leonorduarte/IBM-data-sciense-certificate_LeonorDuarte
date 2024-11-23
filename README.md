@@ -19,8 +19,10 @@ This repository contains select
 - **Course 8:** Data Visualization with Python
 - **Course 9:** Maching Learning with Python
 - **Course 10:** Applied Data Science Capstone
+- **Course 11:** Generative AI: Elevate Your Data Science Career
+- **Course 12:** Data Scientist Career Guide and Interview Preparation
 
-In this course – IBM Data Science Capstone Project SpaceX, I explored data related to the first stage landings of the SpaceX Falcon 9 rocket. SpaceX, an aerospace manufacturer and space transportation company founded by Elon Musk, has revolutionized the industry by drastically reducing launch costs through innovative technology. By safely landing and reusing the Falcon 9’s first stage booster—responsible for 70% of the rocket's cost—SpaceX has managed to cut costs by more than 50% compared to competitors. The company aims to reduce costs by 99% with the completion of its Starship project, further solidifying its dominance in the space exploration market.
+In the **Course 10:** Applied Data Science Capstone, I explored data related to the first stage landings of the SpaceX Falcon 9 rocket. SpaceX, an aerospace manufacturer and space transportation company founded by Elon Musk, has revolutionized the industry by drastically reducing launch costs through innovative technology. By safely landing and reusing the Falcon 9’s first stage booster—responsible for 70% of the rocket's cost—SpaceX has managed to cut costs by more than 50% compared to competitors. The company aims to reduce costs by 99% with the completion of its Starship project, further solidifying its dominance in the space exploration market.
 This capstone project focused on analyzing data from publicly available sources, including the SpaceX API and Wikipedia, to generate insights and predict the likelihood of successful first stage booster landings on drone ships. Using machine learning techniques, we sought to determine which model could best predict the outcome of these landings.
 
 ### Problem Statement
@@ -40,8 +42,7 @@ Machine Learning: Predictive analysis was conducted using Logistic Regression, S
 The dataset provided insights into variables such as flight numbers, payload masses, and mission outcomes. The machine learning models Logistic Regression, SVM, and KNN performed equally well on the dataset, showcasing their potential for predicting Falcon 9 landing success.
 This project highlights how data-driven insights and predictive analytics can support SpaceX’s innovative approach to reducing launch costs and achieving sustainable space exploration.
 
-- **Course 11:** [Generative AI: Elevate Your Data Science Career]
-- **Course 12:** [Data Scientist Career Guide and Interview Preparation]
+
 ## IBM Skills Network: My Completed Final Projects
 ### Skills for Data Science
 The following skills are developed in this professional certificate program:
