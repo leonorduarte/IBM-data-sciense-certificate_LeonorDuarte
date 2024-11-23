@@ -23,6 +23,7 @@ This repository contains select
 - **Course 12:** Data Scientist Career Guide and Interview Preparation
 
 In the **Course 10:** Applied Data Science Capstone, I explored data related to the first stage landings of the SpaceX Falcon 9 rocket. SpaceX, an aerospace manufacturer and space transportation company founded by Elon Musk, has revolutionized the industry by drastically reducing launch costs through innovative technology. By safely landing and reusing the Falcon 9’s first stage booster—responsible for 70% of the rocket's cost—SpaceX has managed to cut costs by more than 50% compared to competitors. The company aims to reduce costs by 99% with the completion of its Starship project, further solidifying its dominance in the space exploration market.
+
 This capstone project focused on analyzing data from publicly available sources, including the SpaceX API and Wikipedia, to generate insights and predict the likelihood of successful first stage booster landings on drone ships. Using machine learning techniques, we sought to determine which model could best predict the outcome of these landings.
 
 ### Problem Statement
