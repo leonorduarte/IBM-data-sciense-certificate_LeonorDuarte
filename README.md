@@ -9,16 +9,16 @@ This is a repository to showcase skills, share projects and track my progress in
 This repository contains select 
 
 # Completed Courses and Certificates
-- **Course 1:** [What is Data Science?]
-- **Course 2:** [Tools for Data Science]
-- **Course 3:** [Data Science Methodology]
-- **Course 4:** [Python for Data Science, AI & Development]
-- **Course 5:** [Python Project for Data Science]
-- **Course 6:** [Databases and SQL for Data Science with Python]
-- **Course 7:** [Data Analysis with Python]
-- **Course 8:** [Data Visualization with Python]
-- **Course 9:** [Maching Learning with Python]
-- **Course 10:** [Applied Data Science Capstone]
+- **Course 1:** What is Data Science?
+- **Course 2:** Tools for Data Science
+- **Course 3:** Data Science Methodology
+- **Course 4:** Python for Data Science, AI & Development
+- **Course 5:** Python Project for Data Science
+- **Course 6:** Databases and SQL for Data Science with Python
+- **Course 7:** Data Analysis with Python
+- **Course 8:** Data Visualization with Python
+- **Course 9:** Maching Learning with Python
+- **Course 10:** Applied Data Science Capstone
 
 In this course – IBM Data Science Capstone Project SpaceX, I explored data related to the first stage landings of the SpaceX Falcon 9 rocket. SpaceX, an aerospace manufacturer and space transportation company founded by Elon Musk, has revolutionized the industry by drastically reducing launch costs through innovative technology. By safely landing and reusing the Falcon 9’s first stage booster—responsible for 70% of the rocket's cost—SpaceX has managed to cut costs by more than 50% compared to competitors. The company aims to reduce costs by 99% with the completion of its Starship project, further solidifying its dominance in the space exploration market.
 This capstone project focused on analyzing data from publicly available sources, including the SpaceX API and Wikipedia, to generate insights and predict the likelihood of successful first stage booster landings on drone ships. Using machine learning techniques, we sought to determine which model could best predict the outcome of these landings.
